@@ -1,1 +1,1 @@
-# CSCI-5448_Project
+# CSCI 5448_Project - Magazine Subscription System
