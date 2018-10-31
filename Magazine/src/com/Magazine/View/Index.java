@@ -24,7 +24,7 @@ public class Index extends JFrame implements ActionListener
         l1.setFont(new Font("Serif", Font.BOLD, 30)); 
     	
     	//set buttons
-        b1 = new JButton("Catagories");
+        b1 = new JButton("Magzines");
         b2 = new JButton("Purchase Items");
         b3 = new JButton("Sign Up");
         b4 = new JButton("My Cart");
