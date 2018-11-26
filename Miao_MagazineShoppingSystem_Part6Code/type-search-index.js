@@ -1,0 +1,1 @@
+typeSearchIndex = [{"p":"com.Magazine.View","l":"Index"}]

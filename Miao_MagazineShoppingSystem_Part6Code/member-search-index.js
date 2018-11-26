@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"com.Magazine.View","c":"Index","l":"actionPerformed(ActionEvent)","url":"actionPerformed-java.awt.event.ActionEvent-"},{"p":"com.Magazine.View","c":"Index","l":"main(String[])","url":"main-java.lang.String:A-"}]
